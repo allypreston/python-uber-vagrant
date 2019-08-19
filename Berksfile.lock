@@ -1,7 +1,7 @@
 DEPENDENCIES
   development
     git: https://github.com/allypreston/uber-app-development
-    revision: 85127094cac5ca5d5bb2f9643d211f091b968f37
+    revision: f639f9069b304ef73b266dff208af3f782a334a1
   nginx
     git: https://github.com/allypreston/uber-app-nginx
     revision: 5070e611c5298645c006673707f63a4cb0a2ffdd
